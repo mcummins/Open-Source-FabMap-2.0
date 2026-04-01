@@ -12,24 +12,25 @@ Mark Cummins and Paul Newman
 
 - 📄 [Journal version](https://journals.sagepub.com/doi/10.1177/0278364910385483)  
 - 📄 [Open-access preprint (PDF)](https://www.robots.ox.ac.uk/~mjc/Papers/cummins_newman_ijrr_fabmap2_2010_preprint.pdf)  
-- ▶️ [Video results](https://www.youtube.com/watch?v=GRTx5ovOSHo)  
+- ▶️ [Results video](https://www.youtube.com/watch?v=GRTx5ovOSHo)  
 
 ## Overview
 
-FAB-MAP 2.0 is designed for **appearance-based place recognition**, also known as **loop closure detection**, and is suitable for datasets on the order of **100,000 images**.
+FAB-MAP 2.0 is designed for appearance-based place recognition, also known as loop closure detection, and is suitable for datasets on the order of 100,000 images.
 
 ## Precompiled Binaries
 
 If you just want to try FAB-MAP without building from source, precompiled binaries are available:
 
-- 💻 [Download binaries for Linux and macOS](https://www.robots.ox.ac.uk/~mobile/wikisite/pmwiki/pmwiki.php?n=Software.FABMAP)  
+- [FAB-MAP 2.0 binaries (Linux and macOS)](https://github.com/mcummins/FabMap-2.0-Binaries)  
 
-## Additional Resources
+Pre-compiled binaries for the earlier FAB-MAP 1.0 system are also available:
 
-Further background, examples, and related software https://www.robots.ox.ac.uk/~mjc/Software.htm)  
+- [FAB-MAP 1.0 binaries (Linux/macOS)](https://www.robots.ox.ac.uk/~mjc/FabMap_Release/FabMap_Linux.tar.gz) 
+- [FAB-MAP 1.0 binaries (Win32)](https://www.robots.ox.ac.uk/~mjc/FabMap_Release/FabMap_Win32.zip)  
 
----
 
+For further resources, examples, datasets and vocabularies see the [Oxford website](https://www.robots.ox.ac.uk/~mjc/Software.htm)
 
 ## Citation
 
